@@ -1,0 +1,8 @@
+{
+  "passwordErrorLimit": 6,
+  "passwordErrorRetryTime": 3600,
+  "service": {
+    "enableSms": true,  // 确保短信服务开启
+    "enableWeixin": true // 确保微信登录支持
+  }
+} 
