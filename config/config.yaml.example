@@ -1,0 +1,20 @@
+server:
+  port: 3306
+  address: "localhost"
+  redisurl: "localhost:6379"
+
+database:
+  name: "database"
+  user: "root"
+  password: "password"
+  redispassword: "password"
+
+email: 
+  address: "user@user.com"
+  password: "password"
+
+image_host:
+  access_key: "ak"
+  secret_key: "sk"
+  bucket: "bucker"
+  domain: "domain"
